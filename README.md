@@ -86,7 +86,7 @@ $ jbj -u parse -u array test/style1.json test/input1.json
 1
 ```
 
-Warning: if you use a JBJ module, it has to be installed, otherwise, there will be an error:
+Warning: if you use a JBJ module, it has to be installed globally, otherwise, there will be an error:
 
 ```bash
 $ jbj -u parse -u array test/style1.json test/input1.json 
@@ -110,19 +110,27 @@ Error: Cannot find module 'jbj-array'
 To install a JBJ module (like `jbj-array`, for example):
 
 ```bash
-$ npm install jbj-array
-```
-
-or better, if you want to use it from anywhere:
-
-```bash
 $ npm install jbj-array -g
 ```
 
 
 ## Examples
 
-TODO
+```bash
+$ npm install jbj-ist -g
+$ echo '{ "resolveDOI": true }' > ./resolveDOI.jbj
+$ echo '"10.1134/S1607672911010121"' > DOI.json
+$ jbj -u ist ./resolveDOI.jbj DOI.json
+{ 'doi-publication-title': 
+   [ 'Dokl Biochem Biophys',
+     'Doklady Biochemistry and Biophysics' ],
+  'doi-publication-date-year': 2011,
+  'doi-publisher': 'Pleiades Publishing Ltd',
+  'doi-type': 'journal-article',
+  'doi-ISSN': [ '1607-6729', '1608-3091' ],
+  'doi-subject': [ 'Biophysics', 'Biochemistry', 'Chemistry(all)' ],
+  'doi-DOI': '10.1134/s1607672911010121' }
+```
 
 ## License
 
