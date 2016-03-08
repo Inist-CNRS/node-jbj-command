@@ -29,6 +29,7 @@
   "homepage": "https://github.com/Inist-CNRS/node-jbj-command#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "jbj": "^4.0.0"
+    "jbj": "^4.0.0",
+    "json5": "^0.4.0"
   }
 }

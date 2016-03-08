@@ -1,0 +1,6 @@
+/*
+ * This an JBJ stylesheet
+ */
+{
+  "get": "a", // get value of key a
+}
