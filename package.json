@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/Inist-CNRS/node-jbj-command#readme",
   "dependencies": {
+    "JSONStream": "^1.1.1",
     "commander": "^2.9.0",
     "event-stream": "^3.3.2",
     "jbj": "^4.0.0",
