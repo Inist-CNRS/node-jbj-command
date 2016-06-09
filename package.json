@@ -1,6 +1,6 @@
 {
   "name": "jbj-command",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "JBJ command (use JBJ on command line)",
   "main": "lib/jbj-command.js",
   "bin": {
