@@ -1,0 +1,2997 @@
+{
+  "total": 616041,
+  "nextPageURI": "https://api.istex.fr/document/?q=semantic%20web&size=10&output=*&from=10",
+  "firstPageURI": "https://api.istex.fr/document/?q=semantic%20web&size=10&output=*&from=0",
+  "lastPageURI": "https://api.istex.fr/document/?q=semantic%20web&size=10&output=*&from=616031",
+  "hits": [
+    {
+      "corpusName": "wiley",
+      "author": [
+        {
+          "name": "Mark Needleman",
+          "affiliations": [
+            "Sirsi",
+            "E-mail: mneedlem@dra.com"
+          ]
+        },
+        {
+          "name": "Eric Miller",
+          "affiliations": [
+            "OCLC, leading W3C Semantic Web activity",
+            "E-mail: em@w3.org"
+          ]
+        },
+        {
+          "name": "James Hendler",
+          "affiliations": [
+            "University of Maryland, College Park, chair, Semantic Web Ontology Working Group",
+            "E-mail: hendler@cs.umd.edu"
+          ]
+        }
+      ],
+      "articleId": [
+        "MEET1450390179"
+      ],
+      "language": [
+        "eng"
+      ],
+      "qualityIndicators": {
+        "score": 0.244,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "594 x 792 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 0,
+        "pdfWordCount": 232,
+        "pdfCharCount": 1471,
+        "pdfPageCount": 1,
+        "abstractWordCount": 1
+      },
+      "title": "The Semantic Web. ASIST standards committee",
+      "genre.original": [
+        "article"
+      ],
+      "genre": [
+        "article"
+      ],
+      "host": {
+        "volume": "39",
+        "publisherId": [
+          "MEET"
+        ],
+        "pages": {
+          "total": "1",
+          "last": "495",
+          "first": "495"
+        },
+        "issn": [
+          "0044-7870"
+        ],
+        "issue": "1",
+        "subject": [
+          {
+            "value": "semantic web"
+          },
+          {
+            "value": "standards developing organizations"
+          },
+          {
+            "value": "ontologies"
+          },
+          {
+            "value": "metadata standards"
+          },
+          {
+            "value": "XML"
+          },
+          {
+            "value": "Resource Description Framework"
+          },
+          {
+            "value": "Article"
+          }
+        ],
+        "genre": [
+          "journal"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1550-8390"
+        ],
+        "title": "Proceedings of the American Society for Information Science and Technology",
+        "doi": [
+          "10.1002/(ISSN)1550-8390"
+        ]
+      },
+      "publicationDate": "2002",
+      "copyrightDate": "2002",
+      "doi": [
+        "10.1002/meet.1450390179"
+      ],
+      "id": "3AC95D9FC3FE1F5413DA7999342813C18B978319",
+      "score": 1.3114845,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/3AC95D9FC3FE1F5413DA7999342813C18B978319/metadata/mods"
+        }
+      ],
+      "serie": {}
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Katia P. Sycara",
+          "affiliations": [
+            "School of Computer Science, Carnegie Mellon University,",
+            "E-mail: katia@cs.cmu.edu"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: The Web, as we know it, is a collection of human readable pages that are virtually unintelligible to computer programs. For that reason, it has been called the “eyeball” Web. While the Web emerged as a World Wide repository of digitized information, by and large, the very same information is not available for automatic computation. In recent years two parallel efforts emerged that have the potential of overcoming this paradox: the first effort is the Semantic Web which provides the tools for the explicit markup of the content of Web pages; the second effort is the development of Web Services which results in a Web where programs act as independent agents to become the producers and consumers of information and enable automation of business transactions. In this talk I will focus on research that attempts to bridge the gap between the Web as we know it, the Semantic Web and Web services. Under this approach, I propose the vision of Web services as autonomous goal-directed agents which select other agents to interact with, and flexibly negotiate their interaction model, acting at times in client server mode, or at other times in peer to peer mode. The resulting Web services, that I call Autonomous Semantic Web services, utilize ontologies and semantically annotated Web pages to automate the fulfillment of tasks and transactions with other Web agents. In particular, Autonomous Semantic Web services use the Semantic Web to support capability based discovery and interoperation at run time. A first step towards this vision is the development of formal languages and inference mechanisms for representing and reasoning with core concepts of Web services. DAML-S (the Darpa Agent Markup Language for Services) is the first attempt to define such a language. I will give a brief overview of DAML-S and its relations with the Semantic Web and Web services. In addition, I will provide concrete examples of computational models of how DAML-S can be viewed as the first step in bridging the gap between the Semantic Web and current proposed industry standards for Web services. I will provide concrete examples of DAML-S in action, discuss challenges still open in the bridging between the Semantic Web and Web services and provide a roadmap to get us from today’s Web to the Web of autonomous Semantic Web services.",
+      "qualityIndicators": {
+        "score": 3.382,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "430 x 660 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 2340,
+        "pdfWordCount": 382,
+        "pdfCharCount": 2187,
+        "pdfPageCount": 1,
+        "abstractWordCount": 383
+      },
+      "title": "From the “Eyeball” Web to the Transaction Web",
+      "chapterId": [
+        "37",
+        "Chap37"
+      ],
+      "serie": {
+        "editor": [
+          {
+            "name": "Gerhard Goos",
+            "affiliations": [
+              "Karlsruhe University, Germany"
+            ]
+          },
+          {
+            "name": "Juris Hartmanis",
+            "affiliations": [
+              "Cornell University, NY, USA"
+            ]
+          },
+          {
+            "name": "Jan van Leeuwen",
+            "affiliations": [
+              "Utrecht University, The Netherlands"
+            ]
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2003"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "Robert Meersman",
+            "affiliations": [
+              "STARLab, Vrije Universiteit Brussel (VUB), Bldg G/10, Pleinlaan 2, 1050, Brussels, Belgium",
+              "E-mail: meersman@vub.ac.be"
+            ]
+          },
+          {
+            "name": "Zahir Tari",
+            "affiliations": [
+              "School of Computer Science and Information Technology, RMIT University, Bld 10.10, 376-392 Swanston Street, VIC 3001, Melbourne, Australia",
+              "E-mail: zahir.tari@rmit.edu.au"
+            ]
+          },
+          {
+            "name": "Douglas C. Schmidt",
+            "affiliations": [
+              "Department of Electrical Engineering and Computer Science, Vanderbilt University, TN 37203, Nashville, USA",
+              "E-mail: schmidt@dre.vanderbilt.edu"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Database Management"
+          },
+          {
+            "value": "Computer Communication Networks"
+          },
+          {
+            "value": "Software Engineering"
+          },
+          {
+            "value": "Information Storage and Retrieval"
+          },
+          {
+            "value": "Information Systems Applications (incl.Internet)"
+          },
+          {
+            "value": "Business Information Systems"
+          }
+        ],
+        "isbn": [
+          "978-3-540-20498-5"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "On The Move to Meaningful Internet Systems 2003: CoopIS, DOA, and ODBASE",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "978-3-540-39964-3"
+        ],
+        "volume": "2888",
+        "pages": {
+          "last": "601",
+          "first": "601"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-39964-3"
+        ],
+        "copyrightDate": "2003",
+        "doi": [
+          "10.1007/b94348"
+        ]
+      },
+      "publicationDate": "2003",
+      "copyrightDate": "2003",
+      "doi": [
+        "10.1007/978-3-540-39964-3_37"
+      ],
+      "id": "326A067C4776DF847541BA6DA096B05E9CFA6107",
+      "score": 1.1670016,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/326A067C4776DF847541BA6DA096B05E9CFA6107/metadata/mods"
+        }
+      ],
+      "enrichments": []
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Enrico Motta",
+          "affiliations": [
+            "Knowledge Media Institute, The Open University, UK",
+            "E-mail: e.motta@open.ac.uk"
+          ]
+        },
+        {
+          "name": "Marta Sabou",
+          "affiliations": [
+            "Knowledge Media Institute, The Open University, UK",
+            "E-mail: r.m.sabou@open.ac.uk"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: In this short paper, we examine current Semantic Web application and we highlight what we see as a shift away from first generation Semantic Web applications, towards a new generation of applications, designed to exploit the large amounts of heterogeneous semantic markup, which are increasingly becoming available. Our analysis aims both to highlight the main features that can be used to compare and contrast current Semantic Web applications, as well as providing an initial blueprint for characterizing the nature of Semantic Web applications. Indeed, our ultimate goal is to specify a number of criteria, which Semantic Web applications ought to satisfy, if we want to move away from conventional semantic systems and develop a new generation of Semantic Web applications, which can succeed in applying semantic technology to the challenging context provided by the World-Wide-Web.",
+      "qualityIndicators": {
+        "score": 4.05,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "430 x 660 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 896,
+        "pdfWordCount": 2418,
+        "pdfCharCount": 14485,
+        "pdfPageCount": 6,
+        "abstractWordCount": 136
+      },
+      "title": "Next Generation Semantic Web Applications",
+      "genre.original": [
+        "OriginalPaper"
+      ],
+      "chapterId": [
+        "3",
+        "Chap3"
+      ],
+      "refBibs": [
+        {
+          "author": [
+            {
+              "name": "T Berners-Lee"
+            },
+            {
+              "name": "J Hendler"
+            },
+            {
+              "name": "O Lassila"
+            }
+          ],
+          "host": {
+            "volume": "284",
+            "pages": {
+              "last": "43",
+              "first": "34"
+            },
+            "issue": "5",
+            "author": [],
+            "title": "Scientific American",
+            "publicationDate": "2001"
+          },
+          "title": "The Semantic Web",
+          "publicationDate": "2001"
+        },
+        {
+          "author": [
+            {
+              "name": "J Lee"
+            },
+            {
+              "name": "R Goodwin"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "1155",
+              "first": "1154"
+            },
+            "author": [],
+            "title": "WWW '05: Special interest tracks and posters of the 14th international conference on World Wide Web",
+            "publicationDate": "2005"
+          },
+          "title": "The Semantic Webscape: a View of the Semantic Web",
+          "publicationDate": "2005"
+        },
+        {
+          "author": [
+            {
+              "name": "M,C Schraefel"
+            },
+            {
+              "name": "N,R Shadbolt"
+            },
+            {
+              "name": "N Gibbins"
+            },
+            {
+              "name": "H Glaser"
+            },
+            {
+              "name": "S Harris"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of the 13th International World Wide Web Conference"
+          },
+          "title": "CS AKTive Space: Representing Computer Science in the Semantic Web"
+        },
+        {
+          "author": [
+            {
+              "name": "E Hyvönen"
+            },
+            {
+              "name": "E Mäkelä"
+            },
+            {
+              "name": "M Salminen"
+            },
+            {
+              "name": "A Valo"
+            },
+            {
+              "name": "K Viljanen"
+            },
+            {
+              "name": "S Saarela"
+            },
+            {
+              "name": "M Junnila"
+            },
+            {
+              "name": "S Kettula"
+            }
+          ],
+          "host": {
+            "volume": "3",
+            "pages": {
+              "first": "25"
+            },
+            "issue": "2",
+            "author": [],
+            "title": "Journal of Web Semantics",
+            "publicationDate": "2005"
+          },
+          "title": "MuseumFinland -Finnish Museums on the Semantic Web",
+          "publicationDate": "2005"
+        },
+        {
+          "author": [
+            {
+              "name": "R Guha"
+            },
+            {
+              "name": "R Mccool"
+            }
+          ],
+          "host": {
+            "volume": "42",
+            "pages": {
+              "last": "577",
+              "first": "557"
+            },
+            "issue": "5",
+            "author": [],
+            "title": "Computer Networks",
+            "publicationDate": "2003-08"
+          },
+          "title": "Tap: a semantic web platform",
+          "publicationDate": "2003-08"
+        },
+        {
+          "author": [
+            {
+              "name": "M Dzbor"
+            },
+            {
+              "name": "E Motta"
+            },
+            {
+              "name": "J,B Domingue"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "The SemanticWeb -ISWC Third International Semantic Web Conference",
+            "publicationDate": "2004-11"
+          },
+          "title": "Opening Up Magpie via Semantic Services",
+          "publicationDate": "2004-11"
+        },
+        {
+          "author": [
+            {
+              "name": "B Popov"
+            },
+            {
+              "name": "A Kiryakov"
+            },
+            {
+              "name": "A Kirilov"
+            },
+            {
+              "name": "D Manov"
+            },
+            {
+              "name": "D Ognyanoff"
+            },
+            {
+              "name": "Goranov,M "
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "The Semantic Web -ISWC 2003, Second International Semantic Web Conference",
+            "publicationDate": "2003"
+          },
+          "title": "KIM – A Semantic Annotation Platform",
+          "publicationDate": "2003"
+        },
+        {
+          "author": [
+            {
+              "name": "V Lopez"
+            },
+            {
+              "name": "E Motta"
+            },
+            {
+              "name": "V Uren"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "3rd European Semantic Web Conference",
+            "publicationDate": "2006-06-11"
+          },
+          "title": "PowerAqua: Fishing thSemantic Web The Semantic Web: Research and Applications",
+          "publicationDate": "2006-06-11"
+        },
+        {
+          "author": [
+            {
+              "name": "D Huynh"
+            },
+            {
+              "name": "S Mazzocchi"
+            },
+            {
+              "name": "D Karger"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "The Semantic Web -ISWC 2005, 4th International Semantic Web Conference, ISWC 2005",
+            "publicationDate": "2005"
+          },
+          "title": "Piggy Bank: Experience the Semantic Web Inside Your Web Browser",
+          "publicationDate": "2005"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": " Akt Reference"
+              },
+              {
+                "name": " Ontology"
+              }
+            ]
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "V Lopez"
+            },
+            {
+              "name": "E Motta"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Ontology Driven Question Answering in AquaLog. 9th International Conference on Applications of Natural Language to Information Systems",
+            "publicationDate": "2004"
+          },
+          "publicationDate": "2004"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": "G Schreiber"
+              },
+              {
+                "name": "H Akkermans"
+              },
+              {
+                "name": "A Anjewierden"
+              },
+              {
+                "name": "R De Hoog"
+              },
+              {
+                "name": "N Shadbolt"
+              },
+              {
+                "name": " Van De"
+              },
+              {
+                "name": "W Velde"
+              },
+              {
+                "name": "B Wielinga"
+              }
+            ],
+            "title": "Knowledge Engineering and Management -The CommonKADS Methodology",
+            "publicationDate": "1999-12"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "P Mika"
+            }
+          ],
+          "host": {
+            "volume": "3",
+            "issue": "2",
+            "author": [],
+            "title": "Journal of Web Semantics",
+            "publicationDate": "2005"
+          },
+          "title": "Flink: SemanticWeb Technology for the Extraction and Analysis of Social Networks",
+          "publicationDate": "2005"
+        }
+      ],
+      "genre": [
+        "conference [eBooks]"
+      ],
+      "serie": {
+        "editor": [
+          {
+            "name": "David Hutchison",
+            "affiliations": [
+              "Lancaster University, UK"
+            ]
+          },
+          {
+            "name": "Takeo Kanade",
+            "affiliations": [
+              "Carnegie Mellon University, Pittsburgh, PA, USA"
+            ]
+          },
+          {
+            "name": "Josef Kittler",
+            "affiliations": [
+              "University of Surrey, Guildford, UK"
+            ]
+          },
+          {
+            "name": "Jon M. Kleinberg",
+            "affiliations": [
+              "Cornell University, Ithaca, NY, USA"
+            ]
+          },
+          {
+            "name": "Friedemann Mattern",
+            "affiliations": [
+              "ETH Zurich, Switzerland"
+            ]
+          },
+          {
+            "name": "John C. Mitchell",
+            "affiliations": [
+              "Stanford University, CA, USA"
+            ]
+          },
+          {
+            "name": "Moni Naor",
+            "affiliations": [
+              "Weizmann Institute of Science, Rehovot, Israel"
+            ]
+          },
+          {
+            "name": "Oscar Nierstrasz",
+            "affiliations": [
+              "University of Bern, Switzerland"
+            ]
+          },
+          {
+            "name": "C. Pandu Rangan",
+            "affiliations": [
+              "Indian Institute of Technology, Madras, India"
+            ]
+          },
+          {
+            "name": "Bernhard Steffen",
+            "affiliations": [
+              "University of Dortmund, Germany"
+            ]
+          },
+          {
+            "name": "Madhu Sudan",
+            "affiliations": [
+              "Massachusetts Institute of Technology, MA, USA"
+            ]
+          },
+          {
+            "name": "Demetri Terzopoulos",
+            "affiliations": [
+              "University of California, Los Angeles, CA, USA"
+            ]
+          },
+          {
+            "name": "Dough Tygar",
+            "affiliations": [
+              "University of California, Berkeley, CA, USA"
+            ]
+          },
+          {
+            "name": "Moshe Y. Vardi",
+            "affiliations": [
+              "Rice University, Houston, TX, USA"
+            ]
+          },
+          {
+            "name": "Gerhard Weikum",
+            "affiliations": [
+              "Max-Planck Institute of Computer Science, Saarbruecken, Germany"
+            ]
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2006"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "Riichiro Mizoguchi",
+            "affiliations": [
+              "The Institute of Scientific and Industrial Research, Osaka University, 8-1 Mihogaoka, 567-0047, Ibaraki, Osaka, Japan",
+              "E-mail: miz@ei.sanken.osaka-u.ac.jp"
+            ]
+          },
+          {
+            "name": "Zhongzhi Shi",
+            "affiliations": [
+              "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, 100080, Beijing,",
+              "E-mail: shizz@ics.ict.ac.cn"
+            ]
+          },
+          {
+            "name": "Fausto Giunchiglia",
+            "affiliations": [
+              "Information and Communication Technology, University of Trento, Italy",
+              "E-mail: fausto@disi.unitn.it"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Information Systems Applications (incl.Internet)"
+          },
+          {
+            "value": "Information Storage and Retrieval"
+          },
+          {
+            "value": "Computer Communication Networks"
+          },
+          {
+            "value": "Multimedia Information Systems"
+          },
+          {
+            "value": "Logics and Meanings of Programs"
+          },
+          {
+            "value": "Artificial Intelligence (incl. Robotics)"
+          }
+        ],
+        "isbn": [
+          "978-3-540-38329-1"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "The Semantic Web – ASWC 2006",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "978-3-540-38331-4"
+        ],
+        "volume": "4185",
+        "pages": {
+          "last": "29",
+          "first": "24"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-38331-4"
+        ],
+        "copyrightDate": "2006",
+        "doi": [
+          "10.1007/11836025"
+        ]
+      },
+      "publicationDate": "2006",
+      "copyrightDate": "2006",
+      "doi": [
+        "10.1007/11836025_3"
+      ],
+      "id": "88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9",
+      "score": 1.1376679,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/metadata/mods"
+        }
+      ],
+      "enrichments": [
+        {
+          "type": "refBib",
+          "uri": "https://api.istex.fr/document/88CFB151B645A6C27C0AFDB92AAD673EE9EA6DC9/enrichments/refBib"
+        }
+      ]
+    },
+    {
+      "corpusName": "wiley",
+      "author": [
+        {
+          "name": "Jane Greenberg",
+          "affiliations": [
+            "School of Information and Library Science at the University of North Carolina, Chapel Hill, North Carolina",
+            "E-mail: janeg@ils.unc.edu"
+          ]
+        }
+      ],
+      "articleId": [
+        "BULT279"
+      ],
+      "language": [
+        "eng"
+      ],
+      "qualityIndicators": {
+        "score": 0.668,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "612 x 792 pts (letter)",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 0,
+        "pdfWordCount": 656,
+        "pdfCharCount": 4254,
+        "pdfPageCount": 2,
+        "abstractWordCount": 1
+      },
+      "title": "The Semantic Web: More than a Vision",
+      "genre.original": [
+        "article"
+      ],
+      "genre": [
+        "article"
+      ],
+      "host": {
+        "volume": "29",
+        "publisherId": [
+          "BULT"
+        ],
+        "pages": {
+          "total": "2",
+          "last": "7",
+          "first": "6"
+        },
+        "issn": [
+          "0095-4403"
+        ],
+        "issue": "4",
+        "subject": [
+          {
+            "value": "semantic web"
+          },
+          {
+            "value": "Special Section"
+          }
+        ],
+        "genre": [
+          "journal"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1550-8366"
+        ],
+        "title": "Bulletin of the American Society for Information Science and Technology",
+        "doi": [
+          "10.1002/(ISSN)1550-8366"
+        ]
+      },
+      "publicationDate": "2003",
+      "copyrightDate": "2003",
+      "doi": [
+        "10.1002/bult.279"
+      ],
+      "id": "9FBF30004A640638EBEA16667091CDB187C2A0A2",
+      "score": 1.0860838,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/9FBF30004A640638EBEA16667091CDB187C2A0A2/metadata/mods"
+        }
+      ],
+      "serie": {}
+    },
+    {
+      "corpusName": "wiley",
+      "author": [
+        {
+          "name": "Nancy Wiegand",
+          "affiliations": [
+            "Land Information and Computer Graphics Facility University of Wisconsin‐Madison E‐mail: wiegand@cs.wisc.edu"
+          ]
+        },
+        {
+          "name": "Dave Kolas",
+          "affiliations": [
+            "BBN Technologies Arlington, Virginia E‐mail: dkolas@bbn.com"
+          ]
+        }
+      ],
+      "articleId": [
+        "TGIS1131"
+      ],
+      "language": [
+        "eng"
+      ],
+      "qualityIndicators": {
+        "score": 1.512,
+        "pdfVersion": "1.4",
+        "pdfPageSize": "484.805 x 697.207 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 0,
+        "pdfWordCount": 1000,
+        "pdfCharCount": 6539,
+        "pdfPageCount": 3,
+        "abstractWordCount": 1
+      },
+      "title": "Geospatial Enhancements for the Semantic Web",
+      "genre.original": [
+        "editorial"
+      ],
+      "genre": [
+        "editorial"
+      ],
+      "host": {
+        "volume": "12",
+        "publisherId": [
+          "TGIS"
+        ],
+        "pages": {
+          "total": "3",
+          "last": "3",
+          "first": "1"
+        },
+        "issn": [
+          "1361-1682"
+        ],
+        "genre": [
+          "journal"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1467-9671"
+        ],
+        "title": "Transactions in GIS",
+        "doi": [
+          "10.1111/(ISSN)1467-9671"
+        ]
+      },
+      "publicationDate": "2008",
+      "copyrightDate": "2008",
+      "doi": [
+        "10.1111/j.1467-9671.2008.01131.x"
+      ],
+      "id": "9BAF780A55D7FFE5230ADF275D143F751235D8BD",
+      "score": 1.0305364,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/9BAF780A55D7FFE5230ADF275D143F751235D8BD/metadata/mods"
+        }
+      ],
+      "serie": {}
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Katia Sycara",
+          "affiliations": [
+            "The Robotics Institute, Carnegie Mellon University, 15213-3890, Pittsburgh, PA, USA",
+            "E-mail: katia@cs.cmu.edu"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: While the Web has emerged as a World Wide repository of digitized information, by and large, this information is not available for automated inference. Two recent efforts, the Semantic Web [1] and Web Services hold great promise of making the Web a machine understandable infrastructure where software agents can perform distributed transactions. The Semantic Web transforms the Web into a repository of computer readable data, while Web services provide the tools for the automatic use of that data. To date there are very few points of contact between Web services and the Semantic Web: research on the Semantic Web focuses mostly on markup languages to allow annotation of Web pages and the inferential power needed to derive consequences, utilizing the Web as a formal knowledge base. Web services concentrate on proposals for interoperability standards and protocols to perform B2B transactions.",
+      "qualityIndicators": {
+        "score": 5.542,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "430 x 660 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 910,
+        "pdfWordCount": 3850,
+        "pdfCharCount": 22701,
+        "pdfPageCount": 10,
+        "abstractWordCount": 141
+      },
+      "title": "Dynamic Discovery, Invocation and Composition of Semantic Web Services",
+      "genre.original": [
+        "OriginalPaper"
+      ],
+      "chapterId": [
+        "2",
+        "Chap2"
+      ],
+      "refBibs": [
+        {
+          "author": [
+            {
+              "name": "T Berners-Lee"
+            },
+            {
+              "name": "J Hendler"
+            },
+            {
+              "name": "O Lassila"
+            }
+          ],
+          "host": {
+            "volume": "284",
+            "pages": {
+              "last": "43",
+              "first": "34"
+            },
+            "issue": "5",
+            "author": [],
+            "title": "Scientific American",
+            "publicationDate": "2001"
+          },
+          "title": "The semantic web",
+          "publicationDate": "2001"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": "E Christensen"
+              },
+              {
+                "name": "F Curbera"
+              },
+              {
+                "name": "G Meredith"
+              },
+              {
+                "name": "S Weerawarana"
+              }
+            ],
+            "title": "Web Services Description Language (WSDL) 1.1 http",
+            "publicationDate": "2001"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "F Curbera"
+            },
+            {
+              "name": "Y Goland"
+            },
+            {
+              "name": "J Klein"
+            },
+            {
+              "name": "F Leymann"
+            },
+            {
+              "name": "D Roller"
+            },
+            {
+              "name": "S Thatte"
+            },
+            {
+              "name": "S Weerawarana"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Business Process Execution Language for Web Services"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "Daml-S The"
+            },
+            {
+              "name": " Coalition"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of the .First International Web Conference",
+            "publicationDate": "2002"
+          },
+          "title": "DAML-S: Web service description for the semantic web",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "T Kawamura"
+            },
+            {
+              "name": "T,R Payne"
+            },
+            {
+              "name": "K Sycara"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of the First International Semantic Web Conference",
+            "publicationDate": "2002"
+          },
+          "title": "Semantic matching of web services capabilities",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "T Kawamura"
+            },
+            {
+              "name": "T,R Payne"
+            },
+            {
+              "name": "K Sycara"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of E-Services and the Semantic Web",
+            "publicationDate": "2002"
+          },
+          "title": "Importing the Semantic Web in UDDI",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "T,R Payne"
+            },
+            {
+              "name": "R Singh"
+            },
+            {
+              "name": "K Sycara"
+            }
+          ],
+          "host": {
+            "volume": "17",
+            "pages": {
+              "last": "86",
+              "first": "84"
+            },
+            "issue": "3",
+            "author": [],
+            "title": "IEEE Intelligent Systems",
+            "publicationDate": "2002"
+          },
+          "title": "Calendar agents on the semantic web",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "N Srinivasan"
+            },
+            {
+              "name": "K Sycara"
+            },
+            {
+              "name": "T Nishimura"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "26",
+              "first": "22"
+            },
+            "author": [],
+            "title": "Proceedings of the First International Conference on Web Services (ICWS'03)",
+            "publicationDate": "2003-06"
+          },
+          "title": "Toward a Semantic Choreography of Web Services: From WSDL to DAML-S",
+          "publicationDate": "2003-06"
+        },
+        {
+          "author": [
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "A Ankolekar"
+            },
+            {
+              "name": "N Srinivasan"
+            },
+            {
+              "name": "K Sycara"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "305",
+              "first": "290"
+            },
+            "author": [],
+            "title": "Proceedings of the Second International Semantic Web Conference (ISWC)",
+            "publicationDate": "2003-10"
+          },
+          "title": "The DAML-S Virtual Machine",
+          "publicationDate": "2003-10"
+        }
+      ],
+      "genre": [
+        "conference [eBooks]"
+      ],
+      "serie": {
+        "editor": [
+          {
+            "name": "Takeo Kanade",
+            "affiliations": [
+              "Carnegie Mellon University, Pittsburgh, PA, USA"
+            ]
+          },
+          {
+            "name": "Josef Kittler",
+            "affiliations": [
+              "University of Surrey, Guildford, UK"
+            ]
+          },
+          {
+            "name": "Jon M. Kleinberg",
+            "affiliations": [
+              "Cornell University, Ithaca, NY, USA"
+            ]
+          },
+          {
+            "name": "Friedemann Mattern",
+            "affiliations": [
+              "ETH Zurich, Switzerland"
+            ]
+          },
+          {
+            "name": "John C. Mitchell",
+            "affiliations": [
+              "Stanford University, CA, USA"
+            ]
+          },
+          {
+            "name": "Oscar Nierstrasz",
+            "affiliations": [
+              "University of Bern, Switzerland"
+            ]
+          },
+          {
+            "name": "C. Pandu Rangan",
+            "affiliations": [
+              "Indian Institute of Technology, Madras, India"
+            ]
+          },
+          {
+            "name": "Bernhard Steffen",
+            "affiliations": [
+              "University of Dortmund, Germany"
+            ]
+          },
+          {
+            "name": "Madhu Sudan",
+            "affiliations": [
+              "Massachusetts Institute of Technology, MA, USA"
+            ]
+          },
+          {
+            "name": "Demetri Terzopoulos",
+            "affiliations": [
+              "New York University, NY, USA"
+            ]
+          },
+          {
+            "name": "Dough Tygar",
+            "affiliations": [
+              "University of California, Berkeley, CA, USA"
+            ]
+          },
+          {
+            "name": "Moshe Y. Vardi",
+            "affiliations": [
+              "Rice University, Houston, TX, USA"
+            ]
+          },
+          {
+            "name": "Gerhard Weikum",
+            "affiliations": [
+              "Max-Planck Institute of Computer Science, Saarbruecken, Germany"
+            ]
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2004"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "George A. Vouros",
+            "affiliations": [
+              "Info and Communication Systems Eng, Aegean University, 83200, Karlovassi, Samos, Greece",
+              "E-mail: georgev@aegean.gr"
+            ]
+          },
+          {
+            "name": "Themistoklis Panayiotopoulos",
+            "affiliations": [
+              "Department of Informatics, University of Piraeus, Piraeus, Greece",
+              "E-mail: themisp@unipi.gr"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Artificial Intelligence (incl. Robotics)"
+          },
+          {
+            "value": "Algorithm Analysis and Problem Complexity"
+          },
+          {
+            "value": "Database Management"
+          },
+          {
+            "value": "Information Storage and Retrieval"
+          },
+          {
+            "value": "Information Systems Applications (incl.Internet)"
+          },
+          {
+            "value": "Image Processing and Computer Vision"
+          }
+        ],
+        "isbn": [
+          "978-3-540-21937-8"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Methods and Applications of Artificial Intelligence",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "978-3-540-24674-9"
+        ],
+        "volume": "3025",
+        "pages": {
+          "last": "12",
+          "first": "3"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-24674-9"
+        ],
+        "copyrightDate": "2004",
+        "doi": [
+          "10.1007/b97168"
+        ]
+      },
+      "publicationDate": "2004",
+      "copyrightDate": "2004",
+      "doi": [
+        "10.1007/978-3-540-24674-9_2"
+      ],
+      "id": "81F6C0DCE294E989E4B821CCFB5F096DDA36605F",
+      "score": 1.020318,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/metadata/mods"
+        }
+      ],
+      "enrichments": [
+        {
+          "type": "refBib",
+          "uri": "https://api.istex.fr/document/81F6C0DCE294E989E4B821CCFB5F096DDA36605F/enrichments/refBib"
+        }
+      ]
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Carole Goble",
+          "affiliations": [
+            "Information Management Group Department of Computer Science, University of Manchester, Kilburn Bulding OxfordRoad, M13 9PL, Manchester, UK",
+            "E-mail: carole@cs.man.ac.uk"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: The Semantic Web is a vision to move the Web from a place where information is processedb y humans to one where processing can be automated. Currently, AI seems to be making an impact on bringing the vision to reality. To add semantics to the web requires languages for representing knowledge. To infer relationships between resources or new facts requires web-scale automatedreasoning. However, there is some skepticism in the web community that AI can be made “web appropriate” andw ork on a web scale. I will introduce the Semantic Web concept andgiv e a number of examples of how AI has already contributedto its development, primarily through knowledge representation languages. I will explore the reasons why the Semantic Web is a challenging environment for AI. I will suggest that this couldb e a killer app for AI, but we must recognize that the web is a vast andun tidy place, andonly a combination of approaches will yield success.",
+      "qualityIndicators": {
+        "score": 3.398,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "648 x 864 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 952,
+        "pdfWordCount": 1490,
+        "pdfCharCount": 9010,
+        "pdfPageCount": 5,
+        "abstractWordCount": 159
+      },
+      "title": "The Semantic Web: A Killer App for AI?",
+      "genre.original": [
+        "OriginalPaper"
+      ],
+      "chapterId": [
+        "28",
+        "Chap28"
+      ],
+      "refBibs": [
+        {
+          "author": [
+            {
+              "name": "Brian Mcbride"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "422",
+              "first": "419"
+            },
+            "author": [],
+            "title": "Proceedings of 1st International Semantic Web Conference (ISWC2002)",
+            "publicationDate": "2002-06"
+          },
+          "title": "Four Steps Towards the Widespread Adoption of a Semantic Web",
+          "publicationDate": "2002-06"
+        },
+        {
+          "author": [
+            {
+              "name": "Tim Berners-Lee"
+            },
+            {
+              "name": "James Hendler"
+            },
+            {
+              "name": "Ora Lassila"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "37",
+              "first": "29"
+            },
+            "author": [],
+            "title": "Scientific American",
+            "publicationDate": "2001-03"
+          },
+          "title": "The Semantic Web",
+          "publicationDate": "2001-03"
+        },
+        {
+          "author": [
+            {
+              "name": "Ian Horrocks"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "13",
+              "first": "2"
+            },
+            "author": [],
+            "title": "Proceedings of Extending Database Technology (EDBT2002)",
+            "publicationDate": "2002-03"
+          },
+          "title": "DAML+OIL: a reason-able web ontology language",
+          "publicationDate": "2002-03"
+        },
+        {
+          "author": [
+            {
+              "name": "Sean Bechhofer"
+            },
+            {
+              "name": "Ian Horrocks"
+            },
+            {
+              "name": "Carole Goble"
+            },
+            {
+              "name": "Robert Stevens"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "408",
+              "first": "396"
+            },
+            "author": [],
+            "title": "Proceedings of KI2001, Joint German/Austrian conference on Artificial Intelligence",
+            "publicationDate": "2001-09"
+          },
+          "title": "OilEd: a Reasonable Ontology Editor for the Semantic Web",
+          "publicationDate": "2001-09"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": "Chris Wroe"
+              },
+              {
+                "name": "Robert Stevens"
+              },
+              {
+                "name": "Carole Goble"
+              },
+              {
+                "name": "Angus Roberts"
+              },
+              {
+                "name": "Mark Greenwood"
+              }
+            ],
+            "title": "A suite of DAML+OIL Ontologies to Describe Bioinformatics Web Services and Data Submitted to Journal of Cooperative Information Systems"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "David Trastour"
+            },
+            {
+              "name": "Claudio Bartolini"
+            },
+            {
+              "name": "Chris Preist"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "98",
+              "first": "89"
+            },
+            "author": [],
+            "title": "Proceedings The Eleventh International World Wide Web Conference",
+            "publicationDate": "2002"
+          },
+          "title": "Semantic Web Support for the Business-to-Business E-Commerce Lifecycle",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "Leslie Carr"
+            },
+            {
+              "name": "Sean Bechhofer"
+            },
+            {
+              "name": "Carole Goble"
+            },
+            {
+              "name": "Wendy Hall"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings Tenth World Wide Web Conference (WWW10)",
+            "publicationDate": "2001-03"
+          },
+          "title": "Conceptual Linking: Ontology-based Open Hypermedia",
+          "publicationDate": "2001-03"
+        },
+        {
+          "author": [
+            {
+              "name": "Terry Payne"
+            },
+            {
+              "name": "Rahul Singh"
+            },
+            {
+              "name": "Katia Sycara"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "474",
+              "first": "469"
+            },
+            "author": [],
+            "title": "Proceedings of 1st International Semantic Web Conference (ISWC2002)",
+            "publicationDate": "2002-06"
+          },
+          "title": "Browsing Schedules -An Agent- Based Appoach to Navigating the Semantic Web",
+          "publicationDate": "2002-06"
+        },
+        {
+          "author": [
+            {
+              "name": "Srini Narayanan"
+            },
+            {
+              "name": "Sheila Mciraith"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "88",
+              "first": "77"
+            },
+            "author": [],
+            "title": "Simulation, Verification and Automated Composition of Web Services Proceedings of Eleventh International World Wide Web Conference (WWW2002)",
+            "publicationDate": "2002-03"
+          },
+          "publicationDate": "2002-03"
+        },
+        {
+          "author": [
+            {
+              "name": "Alexander Maedche"
+            },
+            {
+              "name": "Steffen Staab"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "79",
+              "first": "72"
+            },
+            "issue": "2",
+            "author": [],
+            "title": "IEEE",
+            "publicationDate": "2001"
+          },
+          "title": "Ontology Learning for the Semantic Web",
+          "publicationDate": "2001"
+        }
+      ],
+      "genre": [
+        "conference [eBooks]"
+      ],
+      "serie": {
+        "editor": [
+          {
+            "name": "G. Goos"
+          },
+          {
+            "name": "J. Hartmanis"
+          },
+          {
+            "name": "J. van Leeuwen"
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2002"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "Donia Scott",
+            "affiliations": [
+              "ITRI, University of Brighton, Lewes Road, BN2 4GJ, Brighton, UK",
+              "E-mail: donia.scott@itri.bton.ac.uk"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Artificial Intelligence (incl. Robotics)"
+          }
+        ],
+        "isbn": [
+          "978-3-540-44127-4"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "title": "Artificial Intelligence: Methodology, Systems, and Applications",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "3-540-46148-5"
+        ],
+        "volume": "2443",
+        "pages": {
+          "last": "278",
+          "first": "274"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-46148-7"
+        ],
+        "copyrightDate": "2002",
+        "doi": [
+          "10.1007/3-540-46148-5"
+        ]
+      },
+      "publicationDate": "2002",
+      "copyrightDate": "2002",
+      "doi": [
+        "10.1007/3-540-46148-5_28"
+      ],
+      "id": "91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A",
+      "score": 1.0057166,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/metadata/mods"
+        }
+      ],
+      "enrichments": [
+        {
+          "type": "refBib",
+          "uri": "https://api.istex.fr/document/91A79235EB15C70D2BD4A55CFC9B91DFABA8C50A/enrichments/refBib"
+        }
+      ]
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Vagan Terziyan",
+          "affiliations": [
+            "Industrial Ontologies Group, MIT Department, University of Jyvaskyla, P.O. Box 35 (Agora), FIN-40014, Jyvaskyla, Finland",
+            "E-mail: vagan@it.jyu.fi"
+          ]
+        },
+        {
+          "name": "Oleksandr Kononenko",
+          "affiliations": [
+            "Industrial Ontologies Group, MIT Department, University of Jyvaskyla, P.O. Box 35 (Agora), FIN-40014, Jyvaskyla, Finland",
+            "E-mail: olkonone@cc.jyu.fi"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: Semantic Web technology has a vision to define and link Web data in a way that it can be understood and used by machines for automation, integration and reuse of data across various applications. Ontological definition of every resource as it is assumed in Semantic Web, along with new techniques for semantics processing and new vision Intelligent Web Services is expected to bring Web on its new level. At present, Web Services technology is stressed by the search of a right way for further development. Combination of Semantic Web and Web Services concepts may address many of difficulties of existing technology. It is not a question of whether Semantic Web is coming or not, but a question of when it will come. However without mature standards, proof and actually working industrial cases Semantic Web has small chances to be adopted by industry. In this paper a survey of Web Services recent needs is made, state of the art of Semantic Web technology is discussed in the context of industrial applications. Some new challenges brought by Semantic Web were observed and the industrial maintenance case related to some of these challenges was considered.",
+      "qualityIndicators": {
+        "score": 7.316,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "430 x 660 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 1170,
+        "pdfWordCount": 5284,
+        "pdfCharCount": 34710,
+        "pdfPageCount": 15,
+        "abstractWordCount": 193
+      },
+      "title": "Semantic Web Enabled Web Services: State-of-Art and Industrial Challenges",
+      "genre.original": [
+        "OriginalPaper"
+      ],
+      "chapterId": [
+        "15",
+        "Chap15"
+      ],
+      "refBibs": [
+        {
+          "author": [
+            {
+              "name": "A Ankolekar"
+            },
+            {
+              "name": "M Burstein"
+            },
+            {
+              "name": "J,R Hobbs"
+            },
+            {
+              "name": "O Lassila"
+            },
+            {
+              "name": "D,L Martin"
+            },
+            {
+              "name": "D Mcdermott"
+            },
+            {
+              "name": "S,A Mcilraith"
+            },
+            {
+              "name": "S Narayanan"
+            },
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "T,R Payne"
+            },
+            {
+              "name": "K Sycara ] T"
+            },
+            {
+              "name": "J Berners-Lee"
+            },
+            {
+              "name": "O Hendler"
+            },
+            {
+              "name": " Lassila"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Semantic Web Services and Their Role in Enterprise Application Integration and E-Commerce",
+            "publicationDate": "2001-03"
+          },
+          "title": "DAML-S: Web Service Description for the Semantic Web The Semantic Web",
+          "publicationDate": "2001-03"
+        },
+        {
+          "author": [
+            {
+              "name": "M Dean"
+            },
+            {
+              "name": "D Connolly"
+            },
+            {
+              "name": "F Van Harmelen"
+            },
+            {
+              "name": "J Hendler"
+            },
+            {
+              "name": "I Horrocks"
+            },
+            {
+              "name": "D,L Mcguinness"
+            },
+            {
+              "name": "P,F Patel-Schneider"
+            },
+            {
+              "name": "L,A Stein"
+            }
+          ],
+          "host": {
+            "issue": "0",
+            "author": [],
+            "title": "This W3C Working Draft",
+            "publicationDate": "2002-11-12"
+          },
+          "title": "Web Ontology Language (OWL) Reference Version 1",
+          "publicationDate": "2002-11-12"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": "& Fensel"
+              },
+              {
+                "name": "],D Bussler"
+              },
+              {
+                "name": "C Fensel"
+              },
+              {
+                "name": " Bussler"
+              }
+            ],
+            "title": "The Web Service Modeling Framework WSMF, In: White Paper and Internal Report Vrije Unversiteit Amsterdam",
+            "publicationDate": "2002"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "D Fensel"
+            },
+            {
+              "name": "C Bussler"
+            },
+            {
+              "name": "A Maedche"
+            }
+          ],
+          "host": {
+            "pages": {
+              "last": "2",
+              "first": "1"
+            },
+            "author": [],
+            "title": "Proceedings of the International Semantic Web Conference",
+            "publicationDate": "2002"
+          },
+          "title": "Semantic Web Enabled Web Services",
+          "publicationDate": "2002"
+        },
+        {
+          "author": [
+            {
+              "name": "D Fensel"
+            },
+            {
+              "name": "C Bussler"
+            },
+            {
+              "name": "Y Ding"
+            },
+            {
+              "name": "V Kartseva"
+            },
+            {
+              "name": "M Klein"
+            },
+            {
+              "name": "M Korotkiy"
+            },
+            {
+              "name": "B Omelayenko"
+            },
+            {
+              "name": "R Siebes ] D"
+            },
+            {
+              "name": "M,A Fensel"
+            },
+            {
+              "name": " Musen"
+            }
+          ],
+          "host": {
+            "pages": {
+              "first": "3"
+            },
+            "author": [],
+            "title": "Proceedings of the 7th International Workshop on Applications of Natural Language to Information Systems SOAP: Version 1",
+            "publicationDate": "2001-03"
+          },
+          "title": "Semantic Web Application Areas Semantic Web Enabled Web Services: State-of-Art and Industrial Challenges The Semantic Web: A Brain for Humankind, Intelligent Systems",
+          "publicationDate": "2001-03"
+        },
+        {
+          "host": {
+            "author": [
+              {
+                "name": "E Newcomer"
+              }
+            ],
+            "title": "Introducing Web Services",
+            "publicationDate": "2002-03-31"
+          }
+        },
+        {
+          "author": [
+            {
+              "name": "C Ohlms"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of AIK-Symposium",
+            "publicationDate": "2001"
+          },
+          "title": "A Perspective on the Market Adoption of Semantic Web Technologies",
+          "publicationDate": "2001"
+        },
+        {
+          "author": [
+            {
+              "name": "M Paolucci"
+            },
+            {
+              "name": "T Kawamura"
+            },
+            {
+              "name": "T,R Payne"
+            },
+            {
+              "name": "K Sycara"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Proceedings of Web Services, Ebusiness and Semantic Web Workshop version of the Web Services Description Version 1 Semi-Automatic Composition of Web Services Using Semantic Descriptions, Accepted to \"Web Services: Modeling, Architecture and Infrastructure\" workshop in conjunction with ICEIS2003",
+            "publicationDate": "2001"
+          },
+          "title": "Importing the Semantic Web in UDDI Web Services Description (WSDL) Version 1.2: Primer",
+          "publicationDate": "2001"
+        },
+        {
+          "author": [
+            {
+              "name": "C Sliwa ] T"
+            },
+            {
+              "name": "S Sollazzo"
+            },
+            {
+              "name": "S Handschuh"
+            },
+            {
+              "name": "M Staab"
+            },
+            {
+              "name": " Frank"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "From e-Speak to Web Services Proceedings of the 15th International FLAIRS Conference",
+            "publicationDate": "2002-03-16"
+          },
+          "title": "Semantic Web Service Architecture – Evolving Web Service Standards toward the Semantic Web",
+          "publicationDate": "2002-03-16"
+        },
+        {
+          "author": [
+            {
+              "name": "K Sycara ] D"
+            },
+            {
+              "name": "C Trastour"
+            },
+            {
+              "name": "J Bartolini"
+            },
+            {
+              "name": " Gonzalez-Castillo"
+            }
+          ],
+          "host": {
+            "author": [],
+            "title": "Autonomous Semantic Web Services Proceedings of the 15th Conference on Advanced Information Systems Engineering, Velden, Austria Proc. International Semantic Web Working Symposium (SWWS)",
+            "publicationDate": "2001-07"
+          },
+          "title": "URL: http://www- 2.cs.cmu A Semantic Web Approach to Service Description for Matchmaking of Services",
+          "publicationDate": "2001-07"
+        },
+        {
+          "host": {
+            "author": [],
+            "title": "UDDI: The UDDI technical white paper",
+            "publicationDate": "2000"
+          }
+        }
+      ],
+      "genre": [
+        "conference [eBooks]"
+      ],
+      "serie": {
+        "editor": [
+          {
+            "name": "Gerhard Goos",
+            "affiliations": [
+              "Karlsruhe University, Germany"
+            ]
+          },
+          {
+            "name": "Juris Hartmanis",
+            "affiliations": [
+              "Cornell University, NY, USA"
+            ]
+          },
+          {
+            "name": "Jan van Leeuwen",
+            "affiliations": [
+              "Utrecht University, The Netherlands"
+            ]
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2003"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "Mario Jeckle",
+            "affiliations": [
+              "University of Applied Sciences Furtwangen, 78120, Furtwangen, Germany",
+              "E-mail: mario@jeckle.de"
+            ]
+          },
+          {
+            "name": "Liang-Jie Zhang",
+            "affiliations": [
+              "Business Informatics Department, IBM T. J. Watson Research Center, 1101 Kitchawan Road, Route 134, Yorktown Heights, NY 10598, USA",
+              "E-mail: zhanglj@us.ibm.com"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Information Systems Applications (incl.Internet)"
+          },
+          {
+            "value": "Computer Communication Networks"
+          },
+          {
+            "value": "Software Engineering"
+          },
+          {
+            "value": "Computers and Society"
+          },
+          {
+            "value": "Business Information Systems"
+          }
+        ],
+        "isbn": [
+          "978-3-540-20125-0"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Web Services - ICWS-Europe 2003",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "978-3-540-39872-1"
+        ],
+        "volume": "2853",
+        "pages": {
+          "last": "197",
+          "first": "183"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-39872-1"
+        ],
+        "copyrightDate": "2003",
+        "doi": [
+          "10.1007/b13818"
+        ]
+      },
+      "publicationDate": "2003",
+      "copyrightDate": "2003",
+      "doi": [
+        "10.1007/978-3-540-39872-1_15"
+      ],
+      "id": "7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB",
+      "score": 1.0018547,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/metadata/mods"
+        }
+      ],
+      "enrichments": [
+        {
+          "type": "refBib",
+          "uri": "https://api.istex.fr/document/7FE96E3BD203BDFC9D1A1885CC1C05D1B8AB5CAB/enrichments/refBib"
+        }
+      ]
+    },
+    {
+      "corpusName": "wiley",
+      "author": [
+        {
+          "name": "Jason Withrow",
+          "affiliations": [
+            "Diamond Bullet Design",
+            "E-mail: jay@diamondbullet.com"
+          ]
+        }
+      ],
+      "articleId": [
+        "BULT246"
+      ],
+      "language": [
+        "eng"
+      ],
+      "qualityIndicators": {
+        "score": 0.062,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "612 x 792 pts (letter)",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 0,
+        "pdfWordCount": 0,
+        "pdfCharCount": 0,
+        "pdfPageCount": 3,
+        "abstractWordCount": 1
+      },
+      "title": "Do Your Links Stink? Techniques for Good Web Information Scent",
+      "genre.original": [
+        "article"
+      ],
+      "genre": [
+        "article"
+      ],
+      "host": {
+        "volume": "28",
+        "publisherId": [
+          "BULT"
+        ],
+        "pages": {
+          "total": "3",
+          "last": "9",
+          "first": "7"
+        },
+        "issn": [
+          "0095-4403"
+        ],
+        "issue": "5",
+        "subject": [
+          {
+            "value": "concept association"
+          },
+          {
+            "value": "web content management"
+          },
+          {
+            "value": "semantic web"
+          },
+          {
+            "value": "user expectations"
+          },
+          {
+            "value": "qualitative analysis"
+          },
+          {
+            "value": "browsing"
+          },
+          {
+            "value": "Special Section"
+          }
+        ],
+        "genre": [
+          "journal"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1550-8366"
+        ],
+        "title": "Bulletin of the American Society for Information Science and Technology",
+        "doi": [
+          "10.1002/(ISSN)1550-8366"
+        ]
+      },
+      "publicationDate": "2002",
+      "copyrightDate": "2002",
+      "doi": [
+        "10.1002/bult.246"
+      ],
+      "id": "D382EA3B5325C7FFBD110A4C27644C90FAE8DED2",
+      "score": 0.9970025,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/D382EA3B5325C7FFBD110A4C27644C90FAE8DED2/metadata/mods"
+        }
+      ],
+      "serie": {}
+    },
+    {
+      "corpusName": "springer",
+      "author": [
+        {
+          "name": "Rudi Studer",
+          "affiliations": [
+            "Institute AIFB, Universität Karlsruhe (TH), D-76128, Karlsruhe, Germany",
+            "E-mail: studer@aifb.uni-karlsruhe.de"
+          ]
+        }
+      ],
+      "language": [
+        "eng"
+      ],
+      "abstract": "Abstract: The notion of the Semantic Web can be coined as a Web of data when bringing database content to the Web or as a Web of enriched human-readable content when encoding the semantics of web-resources in a machine-interpretable form. It has been clear from the beginning that realizing the Semantic Web vision will require interdisciplinary research. At this the fifth ISWC, it is time to re-examine the extent to which interdisciplinary work has played and can play a role in Semantic Web research, and even how Semantic Web research can contribute to other disciplines. Core Semantic Web research has drawn from various disciplines, such as knowledge representation and formal ontologies, reusing and further developing their techniques in a new context. However, there are several other disciplines that explore research issues very relevant to the Semantic Web in different guises and to differing extents. As a community, we can benefit by also recognizing and drawing from the research in these different disciplines. On the other hand, Semantic Web research also has much to contribute to these disciplines and communities. For example, the Semantic Web offers scenario that often ask for unprecedented scalability of techniques from other disciplines. Throughout the talk, I will illustrate these points through examples from disciplines such as natural language processing, databases, software engineering and automated reasoning. The industry also has a major role to play in the realization of the Semantic Web vision. I will therefore additionally examine the added value of Semantic Web technologies for commercial applications and discuss issues that should be addressed for broadening the market for Semantic Web technologies.",
+      "qualityIndicators": {
+        "score": 3.419,
+        "pdfVersion": "1.3",
+        "pdfPageSize": "430 x 660 pts",
+        "refBibsNative": false,
+        "keywordCount": 0,
+        "abstractCharCount": 1746,
+        "pdfWordCount": 419,
+        "pdfCharCount": 2743,
+        "pdfPageCount": 2,
+        "abstractWordCount": 267
+      },
+      "title": "The Semantic Web: Suppliers and Customers",
+      "genre.original": [
+        "OriginalPaper"
+      ],
+      "chapterId": [
+        "85",
+        "Chap85"
+      ],
+      "genre": [
+        "conference [eBooks]"
+      ],
+      "serie": {
+        "volume": "5",
+        "editor": [
+          {
+            "name": "David Hutchison",
+            "affiliations": [
+              "Lancaster University, UK"
+            ]
+          },
+          {
+            "name": "Takeo Kanade",
+            "affiliations": [
+              "Carnegie Mellon University, Pittsburgh, PA, USA"
+            ]
+          },
+          {
+            "name": "Josef Kittler",
+            "affiliations": [
+              "University of Surrey, Guildford, UK"
+            ]
+          },
+          {
+            "name": "Jon M. Kleinberg",
+            "affiliations": [
+              "Cornell University, Ithaca, NY, USA"
+            ]
+          },
+          {
+            "name": "Friedemann Mattern",
+            "affiliations": [
+              "ETH Zurich, Switzerland"
+            ]
+          },
+          {
+            "name": "John C. Mitchell",
+            "affiliations": [
+              "Stanford University, CA, USA"
+            ]
+          },
+          {
+            "name": "Moni Naor",
+            "affiliations": [
+              "Weizmann Institute of Science, Rehovot, Israel"
+            ]
+          },
+          {
+            "name": "Oscar Nierstrasz",
+            "affiliations": [
+              "University of Bern, Switzerland"
+            ]
+          },
+          {
+            "name": "C. Pandu Rangan",
+            "affiliations": [
+              "Indian Institute of Technology, Madras, India"
+            ]
+          },
+          {
+            "name": "Bernhard Steffen",
+            "affiliations": [
+              "University of Dortmund, Germany"
+            ]
+          },
+          {
+            "name": "Madhu Sudan",
+            "affiliations": [
+              "Massachusetts Institute of Technology, MA, USA"
+            ]
+          },
+          {
+            "name": "Demetri Terzopoulos",
+            "affiliations": [
+              "University of California, Los Angeles, CA, USA"
+            ]
+          },
+          {
+            "name": "Dough Tygar",
+            "affiliations": [
+              "University of California, Berkeley, CA, USA"
+            ]
+          },
+          {
+            "name": "Moshe Y. Vardi",
+            "affiliations": [
+              "Rice University, Houston, TX, USA"
+            ]
+          },
+          {
+            "name": "Gerhard Weikum",
+            "affiliations": [
+              "Max-Planck Institute of Computer Science, Saarbruecken, Germany"
+            ]
+          }
+        ],
+        "issn": [
+          "0302-9743"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "Lecture Notes in Computer Science",
+        "copyrightDate": "2006"
+      },
+      "host": {
+        "editor": [
+          {
+            "name": "Isabel Cruz",
+            "affiliations": [
+              "Department of Computer Science, University of Illinois at Chicago, 851 South Morgan Street (M/C 152), 60607, Chicago, IL, USA",
+              "E-mail: ifc@cs.uic.edu"
+            ]
+          },
+          {
+            "name": "Stefan Decker",
+            "affiliations": [
+              "Digital Enterprise Research Institute, National University of Ireland, Galway, IDA Business Park, Lower Dangan, Galway, Ireland",
+              "E-mail: Stefan.Decker@deri.org"
+            ]
+          },
+          {
+            "name": "Dean Allemang",
+            "affiliations": [
+              "TopQuadrant, 22314, VA, USA",
+              "E-mail: dallemang@topquadrant.com"
+            ]
+          },
+          {
+            "name": "Chris Preist",
+            "affiliations": [
+              "HP Laboratories, Bristol, UK",
+              "E-mail: chris.preist@hp.com"
+            ]
+          },
+          {
+            "name": "Daniel Schwabe",
+            "affiliations": [
+              "Departamento de Informática – Pontifícia, Universidade Católica do Rio de Janeiro,, (PUC Rio) – Caixa Postal 38.097, 22.453-900, Rio de Janeiro, RJ, Brazil",
+              "E-mail: dschwabe@inf.puc-rio.br"
+            ]
+          },
+          {
+            "name": "Peter Mika",
+            "affiliations": [
+              "Yahoo! Research, Barcelona, Spain",
+              "E-mail: pmika@yahoo-inc.com"
+            ]
+          },
+          {
+            "name": "Mike Uschold",
+            "affiliations": [
+              "Boeing, Phantom Works, P.O. Box 3707, m/s 7L-40, 98124-2207, Seattle, WA, USA",
+              "E-mail: michael.f.uschold@boeing.com"
+            ]
+          },
+          {
+            "name": "Lora M. Aroyo",
+            "affiliations": [
+              "Technische Universiteit Eindhoven, P.O. Box 513, NL 5600, Eindhoven, MB, The Netherlands",
+              "E-mail: l.m.aroyo@tue.nl"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Computer Science"
+          },
+          {
+            "value": "Information Systems Applications (incl.Internet)"
+          },
+          {
+            "value": "Information Storage and Retrieval"
+          },
+          {
+            "value": "Computer Communication Networks"
+          },
+          {
+            "value": "Multimedia Information Systems"
+          },
+          {
+            "value": "Logics and Meanings of Programs"
+          },
+          {
+            "value": "Artificial Intelligence (incl. Robotics)"
+          }
+        ],
+        "isbn": [
+          "978-3-540-49029-6"
+        ],
+        "language": [
+          "unknown"
+        ],
+        "eissn": [
+          "1611-3349"
+        ],
+        "title": "The Semantic Web - ISWC 2006",
+        "genre.original": [
+          "Proceedings"
+        ],
+        "bookId": [
+          "978-3-540-49055-5"
+        ],
+        "volume": "4273",
+        "pages": {
+          "last": "996",
+          "first": "995"
+        },
+        "issn": [
+          "0302-9743"
+        ],
+        "genre": [
+          "Book Series"
+        ],
+        "eisbn": [
+          "978-3-540-49055-5"
+        ],
+        "copyrightDate": "2006",
+        "doi": [
+          "10.1007/11926078"
+        ]
+      },
+      "publicationDate": "2006",
+      "copyrightDate": "2006",
+      "doi": [
+        "10.1007/11926078_85"
+      ],
+      "id": "D4A3103C978AB16A21A3703ECB0D08C48101BE22",
+      "score": 0.99655294,
+      "fulltext": [
+        {
+          "original": true,
+          "mimetype": "application/pdf",
+          "extension": "pdf",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/fulltext/pdf"
+        },
+        {
+          "original": false,
+          "mimetype": "application/zip",
+          "extension": "zip",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/fulltext/zip"
+        },
+        {
+          "original": false,
+          "mimetype": "application/tei+xml",
+          "extension": "tei",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/fulltext/tei"
+        },
+        {
+          "original": false,
+          "mimetype": "text/plain",
+          "extension": "txt",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/fulltext/txt"
+        }
+      ],
+      "metadata": [
+        {
+          "original": true,
+          "mimetype": "application/xml",
+          "extension": "xml",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/metadata/xml"
+        },
+        {
+          "original": false,
+          "mimetype": "application/mods+xml",
+          "extension": "mods",
+          "uri": "https://api.istex.fr/document/D4A3103C978AB16A21A3703ECB0D08C48101BE22/metadata/mods"
+        }
+      ],
+      "enrichments": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "replace#1": ["> ", ">|"],
+  "replace#2": [" .", ""],
+  "parseCSV": "|",
+  "expect": {
+	  "id": "",
+	  "value1": "",
+	  "value2": ""
+  },
+  "$id" : {
+	  "get": 0,
+	  "replace#1" : ["<http://sws.geonames.org/", ""],
+	  "replace#2" : ["/>", ""]
+  },
+  "$value1" : {
+	  "get": 2,
+	  "murmur3": "value" 
+  },
+  "$value2" : {
+	  "get": 1,
+	  "distincter": "type"
+  },
+  "$value3" : {
+	  "get": 2
+  },
+  "mask" : "id,value1,value2",
+  "csv":  ","
+}

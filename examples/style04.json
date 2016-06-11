@@ -1,0 +1,23 @@
+{
+  "parseCSV": ";",
+  "expect": {
+	  "a": "",
+	  "b": ""
+  },
+  "$a" : {
+	  "get": 2,
+	  "anglicize": true,
+	  "downcase": true
+  },
+  "$b" : {
+	  "get": 2,
+	  "djb2": true
+  },
+  "$c" : {
+	  "get": 1,
+	  "anglicize": true,
+	  "downcase": true
+  },
+  "mask" : "a,b",
+  "csv":  ","
+}
